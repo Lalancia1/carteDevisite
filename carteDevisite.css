@@ -1,0 +1,143 @@
+body{
+    width: 800px;
+    height: 600px;
+}
+#grandeDiv{
+    position: absolute;
+    background-color: antiquewhite;
+    width: 700px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border:1px solid;
+}
+#ligneVerticale{
+
+
+}
+#côtéGauche{
+
+    width: 50%;
+    height: 500px;
+}
+#côtéDroit{
+    float: right;
+    width: 50%;
+    height: 500px;
+   margin-top:-550px;
+}
+#maPremiereLigne{
+    width: 1px;
+    height: 400px;
+}
+#horizontale{
+    position:absolute;
+    display: flex;
+    width: 1px;
+    height: 400px;
+    padding-top: 40px;
+    margin-left: 350px;
+}
+#para{
+    position:absolute;
+    display:flex;
+width: 350px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top:150px ;
+}
+img{
+    width: 80px;
+    height: 80px;
+    margin-left: 250px;
+    margin-top:70px;
+
+}
+#tracé1#tracé2#tracé3{
+
+    width: 150px;
+    height:1px ;
+    margin-right: 50px;
+}
+.ligne1{
+padding-bottom: 40px;
+}
+}
+.ligne2{
+    position:absolute;
+    padding-top: 40px;
+
+}
+.ligne3{
+padding-top: 40px;
+}
+
+
+#lesTrois{
+    z-index: -1;
+    float: right;
+    display: block;
+    width: 250px;
+    height: 200px;
+    margin-right: 80px;
+    margin-top: 100px;
+}
+#carré{
+    z-index: 1;
+    position:absolute;
+
+    display:flex;
+    width: 120px;
+    height: 80px;
+    margin-top: 250px;
+    margin-left: 20px;
+}
+#carré1 {
+    position:absolute;
+    z-index:1;
+    width: 20px;
+    height:20px;
+    border: 1px  solid black;
+
+}
+#carré2{
+    z-index:1;
+    border: 1px  solid black;
+    position: absolute;
+    width: 20px;
+    height:20px;
+    margin-left:30px ;
+}
+
+#carré3 {
+    z-index:1;
+    position: absolute;
+    width: 20px;
+    height:20px;
+
+    margin-left: 70px;
+    border: 1px solid black;
+}
+#carré4{
+    width: 20px;
+    height:20px;
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 100px;
+    z-index:1;
+}
+.ligne6{
+    position: absolute;
+
+  height: 20px;
+    width: 75px;
+    margin-top: 300px;
+    margin-left: 10px;
+}
+#tracéDernier{
+margin-left: 190px;
+    margin-top:-20px;
+    width: 75px;
+    height: 1px;
+}
+
